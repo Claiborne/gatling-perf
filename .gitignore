@@ -1,0 +1,18 @@
+# Mac
+.DS_Store
+/.idea
+
+# Scala
+*.class
+*.log
+
+# Gatling
+target/
+results/
+
+# Scala-IDE
+.scala_dependencies
+.worksheet
+
+# Marqeta
+env.conf
